@@ -41,3 +41,52 @@ C:\MyStuff\interview\~WRL0787.tmp 36434
 C:\MyStuff\interview\~WRL3762.tmp 40358
 ```
 2.> FolderSizeTest.java
+```
+C:\MyStuff\interview\accounts.docx 19436
+C:\MyStuff\interview\coverleter - Abicart.docx 13886
+C:\MyStuff\interview\coverleter.docx 11746
+C:\MyStuff\interview\New Text Document.txt 0
+C:\MyStuff\interview\Target news.docx 13144
+C:\MyStuff\interview\~$and muscle interview preparation.docx 162
+C:\MyStuff\interview\~$counts.docx 162
+C:\MyStuff\interview\~$ivalli.Komma.docx 162
+C:\MyStuff\interview\~$ivalliKBM-cover letter.docx 162
+C:\MyStuff\interview\~$ivalliKomma.docx 162
+C:\MyStuff\interview\~$mpanies in cleveland.docx 162
+C:\MyStuff\interview\~$plied on 28th oct 2015.docx 162
+C:\MyStuff\interview\~$plied on 2nd DEC 2015.docx 162
+C:\MyStuff\interview\~$plied on 5th Nov 2015.docx 162
+C:\MyStuff\interview\~$plied on 6th Nov 2015.docx 162
+C:\MyStuff\interview\~$sumeforUH.docx 162
+C:\MyStuff\interview\~$verleter-Metropark.docx 162
+C:\MyStuff\interview\~$verlettercityofcleveland.docx 162
+C:\MyStuff\interview\~$verlettercommon.docx 162
+C:\MyStuff\interview\~WRL0003.tmp 39615
+C:\MyStuff\interview\~WRL0787.tmp 36434
+C:\MyStuff\interview\~WRL3762.tmp 40358
+Folder Size: 176887 Bytes
+C:\MyStuff\interview\accounts.docx 19436
+C:\MyStuff\interview\coverleter - Abicart.docx 13886
+C:\MyStuff\interview\coverleter.docx 11746
+C:\MyStuff\interview\New Text Document.txt 0
+C:\MyStuff\interview\Target news.docx 13144
+C:\MyStuff\interview\~$and muscle interview preparation.docx 162
+C:\MyStuff\interview\~$counts.docx 162
+C:\MyStuff\interview\~$ivalli.Komma.docx 162
+C:\MyStuff\interview\~$ivalliKBM-cover letter.docx 162
+C:\MyStuff\interview\~$ivalliKomma.docx 162
+C:\MyStuff\interview\~$mpanies in cleveland.docx 162
+C:\MyStuff\interview\~$plied on 28th oct 2015.docx 162
+C:\MyStuff\interview\~$plied on 2nd DEC 2015.docx 162
+C:\MyStuff\interview\~$plied on 5th Nov 2015.docx 162
+C:\MyStuff\interview\~$plied on 6th Nov 2015.docx 162
+C:\MyStuff\interview\~$sumeforUH.docx 162
+C:\MyStuff\interview\~$verleter-Metropark.docx 162
+C:\MyStuff\interview\~$verlettercityofcleveland.docx 162
+C:\MyStuff\interview\~$verlettercommon.docx 162
+C:\MyStuff\interview\~WRL0003.tmp 39615
+C:\MyStuff\interview\~WRL0787.tmp 36434
+C:\MyStuff\interview\~WRL3762.tmp 40358
+Folder Size: 176887 Bytes
+Folder Size: 0 Bytes
+```
