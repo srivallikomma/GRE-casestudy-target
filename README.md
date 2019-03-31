@@ -3,7 +3,7 @@
 For example, when we get an alert that a disk is getting full, you would want to know what files are using up all of the space.
 Write a program in a language of your choice which will take a mount point as an argument and return a list of all the files on the mountpoint and their disk usage in bytes in json format.
 
-#Solution:
+# Solution:
 Programming language adopted:
 Java Verison 1.8
 IDE : Eclipse
@@ -11,7 +11,7 @@ Files :
 1.> FolderSize.java
 2.> FolderSizeTest.java
 
-#Output:
+# Output:
 1.> FolderSize.java
 ```
 C:\MyStuff\interview\accounts.docx 19436
