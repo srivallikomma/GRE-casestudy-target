@@ -17,6 +17,8 @@ Files Uploaded to Repo:
 # Output:
 1.> FolderSize.java
 ```
+Enter path : 
+C://MyStuff//interview
 C:\MyStuff\interview\accounts.docx 19436
 C:\MyStuff\interview\coverleter - Abicart.docx 13886
 C:\MyStuff\interview\coverleter.docx 11746
