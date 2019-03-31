@@ -4,11 +4,15 @@ import java.io.*;
 public class FolderSize {
 
 	public static void main(String[] args) {
-		 String folder = "C:\\MyStuff\\interview";
-		    try {
+		   try {
 		    	
-		    	FolderSize size = new FolderSize();
-		    	size.getFolderSize(new File(folder));
+		   FolderSize size = new FolderSize();
+        BufferedReader reader =  
+                new BufferedReader(new InputStreamReader(System.in)); 
+           System.out.println("Enter path : ");
+     String folder = reader.readLine();
+    
+        long fileSizeByte = size.getFolderSize(new File(folder));
 	}
         catch (Exception e) {
         	}
