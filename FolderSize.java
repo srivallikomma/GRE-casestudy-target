@@ -2,10 +2,10 @@ package casestudy;
 
 import java.io.*;
 
-public class DiskSpace {
+public class FolderSize {
 	public static void main(String args[]) {
 		try {
-			DiskSpace space= new DiskSpace();
+			FolderSize space= new FolderSize();
 			BufferedReader reader= new BufferedReader(new InputStreamReader(System.in));
 			System.out.print("Enter path: ");
 			String filesize =reader.readLine();
