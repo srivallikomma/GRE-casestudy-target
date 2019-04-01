@@ -14,6 +14,16 @@ Files Uploaded to Repo:
 1.> FolderSize.java
 2.> FolderSizeTest.java
 
+# Beginners guide
+```
+For Indivuduals who has not set up jdk can kindly dowload the package @ https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
+```
+# Post Jdk installation
+```
+Set up Environment variables for java which looks something like "C:\Program Files (x86)\Common Files\Oracle\Java\javapath" for windows users
+```
+ 
+
 # Output:
 1.> FolderSize.java
 ```
