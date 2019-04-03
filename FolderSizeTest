@@ -7,7 +7,7 @@ import java.io.File;
 import org.junit.Test;
 
 public class FolderSizeTest {
-String folder = "C:\Target\TragetCasestudy";
+String folder = "C:\\Target\\TragetCasestudy";
 
 	@Test
 	public void test() {
