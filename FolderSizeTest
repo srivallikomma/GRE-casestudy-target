@@ -13,15 +13,14 @@ String folder = "C:\\Target\\TragetCasestudy";
 	public void test() {
 	 	FolderSize size = new FolderSize();
 	        long fileSizeByte = size.getFolderSize(new File(folder));
-	        System.out.println("Folder Size: " + fileSizeByte + " Bytes");
-            assertEquals(true, fileSizeByte>0)  ;
+		System.out.println("Folder Size: " + fileSizeByte + " Bytes");
+	        assertEquals(true, fileSizeByte>0)  ;
             
 	}
 	@Test
 	public void test2() {
 	 	FolderSize size = new FolderSize();
-       		 long fileSizeByte = size.getFolderSize(new File(folder));
-        	System.out.println("Folder Size: " + fileSizeByte + " Bytes");
+       		long fileSizeByte = size.getFolderSize(new File(folder));
         	assertEquals(true, fileSizeByte=0)  ;
 		
 	}
@@ -29,8 +28,7 @@ String folder = "C:\\Target\\TragetCasestudy";
 	public void test3() {
 		FolderSize size = new FolderSize();
         	long fileSizeByte = size.getFolderSize(new File(folder));
-       		 System.out.println("Folder Size: " + fileSizeByte + " Bytes");
-        	assertEquals(true, folder.isEmpty())  ;
+       		assertEquals(true, folder.isEmpty())  ;
 		
 	}
 
