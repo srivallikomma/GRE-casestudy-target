@@ -7,11 +7,11 @@ import java.io.File;
 import org.junit.Test;
 
 public class FolderSizeTest {
+String folder = "C:\Target\TragetCasestudy";
 
 	@Test
 	public void test() {
-	 String folder = "C:\\MyStuff\\interview";
-		FolderSize size = new FolderSize();
+	 	FolderSize size = new FolderSize();
 	        long fileSizeByte = size.getFolderSize(new File(folder));
 	        System.out.println("Folder Size: " + fileSizeByte + " Bytes");
             assertEquals(true, fileSizeByte>0)  ;
@@ -19,20 +19,18 @@ public class FolderSizeTest {
 	}
 	@Test
 	public void test2() {
-	String folder = "C:\\MyStuff\\interview";
-		FolderSize size = new FolderSize();
-        long fileSizeByte = size.getFolderSize(new File(folder));
-        System.out.println("Folder Size: " + fileSizeByte + " Bytes");
-        assertEquals(true, fileSizeByte=0)  ;
+	 	FolderSize size = new FolderSize();
+       		 long fileSizeByte = size.getFolderSize(new File(folder));
+        	System.out.println("Folder Size: " + fileSizeByte + " Bytes");
+        	assertEquals(true, fileSizeByte=0)  ;
 		
 	}
 	@Test
 	public void test3() {
-	String folder = "C:\\MyStuff\\blank";
 		FolderSize size = new FolderSize();
-        long fileSizeByte = size.getFolderSize(new File(folder));
-        System.out.println("Folder Size: " + fileSizeByte + " Bytes");
-        assertEquals(true, folder.isEmpty())  ;
+        	long fileSizeByte = size.getFolderSize(new File(folder));
+       		 System.out.println("Folder Size: " + fileSizeByte + " Bytes");
+        	assertEquals(true, folder.isEmpty())  ;
 		
 	}
 
